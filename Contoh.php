@@ -2,7 +2,7 @@
 
 	//Devni Kusnia Wati
 	//RPL XI-1
-    //Cicurug 5
+    	//Cicurug 5
 
 	class Pakaian {
 		public $warna,
